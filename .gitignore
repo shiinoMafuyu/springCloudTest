@@ -1,0 +1,13 @@
+common/.idea/
+# Created by .ignore support plugin (hsz.mobi)
+/target/
+/.project
+/.settings
+/.classpath
+/.factorypath
+.idea/**
+*.iml
+.mvn/**
+common/target/
+commonversion/.mvn/
+templateserver/.mvn/
